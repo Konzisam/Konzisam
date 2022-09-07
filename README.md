@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Konzisam
 - 👀 I’m interested in Data and providing data solutions
-- 🌱 I’m currently learning Tableau one of the top visualizazion tools
+- 🌱 I’m currently learning and improving my Tableau skills one of the top visualizazion tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Konzisam
 - 👀 I’m interested in Data and providing data solutions
-- 🌱 I’m currently learning and improving my Tableau skills one of the top visualization tools. You can have a look at my portfolio on https://public.tableau.com/app/profile/samuel.konzi
+- 🌱You can have a look at my Tableau portfolio on https://public.tableau.com/app/profile/samuel.konzi
 - 💞️ I’m looking to collaborate data projects
 - 📫 Lets get in touch
 
